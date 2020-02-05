@@ -6,5 +6,6 @@ name = "pypi"
 [dev-packages]
 pytest = "*"
 python-Levenshtein = "*"
+more-itertools = "*"
 
 [packages]
