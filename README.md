@@ -41,7 +41,7 @@ passjoin_index.get_word_variations('jeanine')
 
 ```
 
-<!-- ## Contributing
+## Contributing
 
 Clone the project.
 
@@ -49,4 +49,4 @@ Install [pipenv](https://github.com/pypa/pipenv).
 
 Run `pipenv install --dev`
 
-Launch test with `pipenv run pytest` -->
+Launch test with `pipenv run pytest`
